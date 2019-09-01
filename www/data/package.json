@@ -1,0 +1,16 @@
+{
+  "name": "store_locator",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Store locator",
+  "main": "server.js",
+  "author": "LC",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "node-geocoder": "^3.22.0"
+  }
+}

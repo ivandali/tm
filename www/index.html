@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Columbus Store Locator</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+<script type="text/javascript" > </script>
+<script src="./js/app.js"></script>
+ <style>
+    .map {height: 100%; width:100%; border:thin}
+     html, body {height: 100%; margin: 0%}
+    .summary {width:19%; margin-top:0; margin-right:0;float:right; border:thin}
+    .header {
+            opacity: 1; 
+            position: absolute;
+		    top: 0px;
+		    left: 5px;
+			height:70px;
+			border: solid 1px #555;
+			background-color: #eed;
+			box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	        -moz-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	        -webkit-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	        -o-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+            z-index: 2
+ 	}
+     
+    .allSides
+		{
+            opacity:0.9;
+            position: absolute;
+		    bottom: 40px;
+		    left: 5px;
+			width:400px;height:600px;
+			border: solid 1px #555;
+			background-color: #eed;
+			border: solid 1px #555;
+	
+	box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	-moz-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	-webkit-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	-o-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+            z-index: 2
+ 		}
+          .rightBottom
+		{
+            opacity:0.15;
+            position: absolute;
+		    bottom: 40px;
+		    right: 5px;
+			width:1900px;height:1200px;
+			border: solid 1px #555;
+			border: solid 1px #555;
+	
+	box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	-moz-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	-webkit-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+	-o-box-shadow: -10px 10px   5px rgba(0,0,0,0.6);
+            z-index: 2
+ 		}
+   
+      </style>
+ <link rel="stylesheet" type="text/css" href="./css/completo.css" media="screen" />
+<!--
+ <style>
+    .map {height: 90%; width:1024px; border:solid}
+    html, body {height: 100%; margin: 10; padding: 0;}
+  </style>
+-->
+<script>
+    sessionStorage.clear();
+    var stores = "PMS";
+    stores=getUrlVars()["stores"];
+
+        sessionStorage.setItem("SessionName",stores);
+    
+            function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+             
+            vars[key] = value;
+            });
+            return vars;
+            }
+
+    </script>
+</head>
+<body>
+    
+
+<div id="box" class="allSides">
+<ul style="color:#FFFFF; font-size:32px; bold:true; font-family:Helvetica, Verdana, Arial, sans-serif; padding:0px; margin:0px; list-style-type:none">
+<li id="liPMS" style="text-align:left; bold; font-size:24px; line-height: 20px; padding:0px 0px 0px 0px;">
+    <!--<img id="iconPH" src="img/icon_Pharmacy.png" height="32" width="32" border="0" style="float:left; margin-right:10px;"> -->
+                 <p id="PH"><strong>Total Stores    :</strong> </p></li>
+<li id="liNI" style="text-align:left; font-size:22px; line-height: 20px; padding:0px 0px 0px 20px;"><img src="img/green-dot.png" height="32" width="32" border="0" style="float:left; margin-right:10px;"><p id="NI">  NI:</p></li>
+<li id="liWL" style="text-align:left; font-size:22px; line-height: 20px; padding:0px 0px 0px 20px;"><img src="img/blue-dot.png" height="32" width="32" border="0" style="float:left; margin-right:10px;"><p id="WL">  Wales:</p></li>
+<li id="liEN" style="text-align:left; font-size:22px; line-height: 20px; padding:0px 0px 0px 20px;"><img src="img/red-dot.png" height="32" width="32" border="0" style="float:left; margin-right:10px;"><p id="EN">  England:</p></li>
+<li id="liSC" style="text-align:left; font-size:22px; line-height: 20px; padding:0px 0px 0px 20px;"><img src="img/yellow-dot.png" height="32" width="32" border="0" style="float:left; margin-right:10px;"><p id="SC">  Scotland:</p></li>
+<li id="liDatePMS" style="text-align:left; bold; font-size:24px; line-height: 20px; padding:0px 0px 0px 0px;">
+    <p><strong>Last Rollout Date: <spawn id="RolloutDatePMS"></spawn></strong> </p></li>
+<li id="liDSP" style="text-align:left; bold; font-size:24px; line-height: 20px; padding:0px 0px 0px 20px;">
+               <p id="DSP"><strong>Total Served Stores:</strong> </p></li>
+<li id="liDI" style="text-align:left; font-size:22px; line-height: 20px; padding:0px 0px 0px 20px;"><img src="img/red-dot.png" height="32" width="32" border="0" style="float:left; margin-right:10px;"><p id="DI">Columbus Served Stores:</p></li>
+<li id="liDS" style="text-align:left; font-size:22px; line-height: 20px; padding:0px 0px 0px 20px;"><img src="img/blue-dot.png" height="32" width="32" border="0" style="float:left; margin-right:10px;"><p id="DS">Nexphase Served Stores:</p></li>
+<li id="liDateDSP" style="text-align:left; bold; font-size:24px; line-height: 20px; padding:0px 0px 0px 20px;"><p><strong>Last Rollout Date: <spawn id="RolloutDateDSP"></spawn></strong></p></li>
+</ul>
+</div>
+
+    <div id="head" class="header">
+       <h1>
+           <script>
+           if ( sessionStorage.getItem("SessionName") === 'DSP')
+            {
+                document.write("Columbus DSP Rollout Map ");
+                document.getElementById("box").style.height = "250px";
+                document.getElementById("box").style.width = "500px";
+                document.getElementById("liPMS").style.dysplay = "none";
+                document.getElementById("liNI").style.display = "none";
+                document.getElementById("liEN").style.display = "none";
+                document.getElementById("liWL").style.display = "none";
+                document.getElementById("liSC").style.display = "none";
+                document.getElementById("PH").style.display = "none";
+                document.getElementById("liDatePMS").style.display = "none";
+            }else{
+                document.write("Columbus PMS Rollout Map");
+                document.getElementById("box").style.height = "300px";
+                document.getElementById("box").style.width = "500px";
+                document.getElementById("liDSP").style.display = "none";
+                document.getElementById("liDS").style.display = "none";
+                document.getElementById("liDI").style.display = "none";
+                document.getElementById("liDateDSP").style.display = "none";
+            }
+           
+            storeCounters(sessionStorage.getItem("SessionName"));
+            </script>
+        </h1>
+        </div>     
+
+      <div class="map"></div> 
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxeTUVEWrWcy_wJjqOq8CO0ZSMpxOTDXA&callback=initMap">
+    </script>
+    
+   <div id="fireworks" class="rightBottom" display="none">
+      <!-- <img id="iconPH" src="img/fw.gif" height="1200" width="1900" border="0" style="float:left; margin-right:0px;"> -->
+    </div>
+
+</body>
+</html>

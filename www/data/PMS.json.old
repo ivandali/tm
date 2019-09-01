@@ -1,0 +1,3151 @@
+{
+"type": "FeatureCollection",
+ "features": [
+ 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4859502,
+          52.9054756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000704",
+        "address": "Market Drayton Cheshire Street,TF9 1PR",
+	    "storecode": "425",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9546794999999998,
+          53.325779
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000375",
+        "address": "Retford Hospital Primary Care Ctr,DN22 7XF",
+	    "storecode": "1354",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0578729,
+          51.6541066
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001873",
+        "address": "Enfield Retail Park,EN1 1TH",
+	    "storecode": "6462",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5170546,
+          52.7006277
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000662",
+        "address": "Telford Wellington,TF1 1LU",
+	    "storecode": "277",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7176245,
+          52.3685889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000675",
+        "address": "Ludlow Bull Ring,SY8 1AA",
+	    "storecode": "345",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4711702,
+          53.3670446
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001615",
+        "address": "Sheffield Asline,S2 4UJ",
+	    "storecode": "5687",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1351433,
+          53.2489988
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000143",
+        "address": "Flint Church Street,CH6 5AE",
+	    "storecode": "465",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9894207,
+          52.9870894
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000335",
+        "address": "Cheadle High Street Staffordshire,ST10 1AR",
+	    "storecode": "1101",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0799622,
+          51.5180196
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000951",
+        "address": "London Bishopsgate,EC2M 4NR",
+	    "storecode": "1103",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8717330999999999,
+          53.70513889999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001323",
+        "address": "Goole Wesley Square,DN14 5EZ",
+	    "storecode": "5057",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1735186,
+          53.10481679999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001660",
+        "address": "Coningsby Silver Street,LN4 4SG",
+	    "storecode": "5790",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6053289,
+          53.2156649
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000361",
+        "address": "Lincoln Birchwood Health Centre,LN6 0QQ",
+	    "storecode": "5194",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1999453,
+          51.48216530000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000776",
+        "address": "London Fulham North End Road,SW6 1NF",
+	    "storecode": "725",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0550297,
+          51.5481293
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000935",
+        "address": "London Hackney Mare Street,E8 1HR",
+	    "storecode": "1074",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1213724,
+          52.7847029
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001667",
+        "address": "Long Sutton Market Place,PE12 9JG",
+	    "storecode": "5804",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3729561,
+          52.667024
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001532",
+        "address": "Shifnal Cheapside,TF11 8BN",
+	    "storecode": "5516",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08578039999999999,
+          51.5512887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001593",
+        "address": "LONDON ,N16 9PX",
+	    "storecode": "5636",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1242055,
+          51.5790772
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000806",
+        "address": "London Crouch End,N8 8DU",
+	    "storecode": "788",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5014809,
+          53.3775604
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000622",
+        "address": "Sheffield Broomhill,S10 3BB",
+	    "storecode": "154",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.134099,
+          52.983557
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000257",
+        "address": "Stoke On Trent Longton,ST3 4DF",
+	    "storecode": "5093",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1170018,
+          52.8070581
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000634",
+        "address": "Stafford Market Square,ST16 2BD",
+	    "storecode": "183",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1763641,
+          51.6161721
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000809",
+        "address": "London North Finchley,N12 9QR",
+	    "storecode": "796",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8103925,
+          53.0761342
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000359",
+        "address": "Newark Stodman Street,NG24 1AT",
+	    "storecode": "14",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1929426,
+          53.0290913
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001923",
+        "address": "Stoke On Trent Festival Retail Pk,ST1 5SJ",
+	    "storecode": "6562",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.177731,
+          51.5561987
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001112",
+        "address": "London Hampstead,NW3 1QE",
+	    "storecode": "1519",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0881264,
+          52.5506093
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000410",
+        "address": "March Broad Street,PE15 8TP",
+	    "storecode": "177",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7533103,
+          52.6889476
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001896",
+        "address": "Shrewsbury Meole Brace Retail Park,SY3 9NB",
+	    "storecode": "6502",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9850312999999999,
+          52.5793146
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001465",
+        "address": "Hingham The Market Place,NR9 4AF",
+	    "storecode": "5383",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5431827,
+          53.22514779999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000589",
+        "address": "Lincoln St Marks Centre,LN5 7EY",
+	    "storecode": "53",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4780926,
+          53.3727971
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001838",
+        "address": "Sheffield Waitrose,S11 8HY",
+	    "storecode": "6309",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.196745,
+          51.50903779999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000907",
+        "address": "London Notting Hill Gate,W11 3QA",
+	    "storecode": "1005",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0882482,
+          51.5187051
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000885",
+        "address": "London Moorgate High Street,EC2M 6XQ",
+	    "storecode": "951",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3767811,
+          52.6020337
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000411",
+        "address": "Downham Market Wales Court,PE38 9JZ",
+	    "storecode": "179",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1879675,
+          51.51473499999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001145",
+        "address": "London Queensway,W2 6LS",
+	    "storecode": "1624",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9106581,
+          53.2593024
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000958",
+        "address": "Buxton Spring Gardens,SK17 6BZ",
+	    "storecode": "1118",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4172831,
+          51.7059949
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001706",
+        "address": "Abbots Langley,WD5 0AE",
+	    "storecode": "5896",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1648125,
+          51.4989691
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001139",
+        "address": "Knightsbridge Brompton Road,SW3 1QP",
+	    "storecode": "2158",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4856166,
+          53.35485389999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001614",
+        "address": "Sheffield Abbeydale Road,S7 2BA",
+	    "storecode": "5686",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2625341,
+          53.1252466
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000610",
+        "address": "Sutton In Ashfield The Idlewells,NG17 1BN",
+	    "storecode": "113",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9621728,
+          53.6109471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000582",
+        "address": "Thorne Finkle Street,DN8 5DE",
+	    "storecode": "34",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7209384999999999,
+          53.5898105
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001028",
+        "address": "Scunthorpe North Lincolnshire SP,DN15 8TG",
+	    "storecode": "1310",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4942962,
+          53.36933
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001029",
+        "address": "Sheffield Berkeley Precinct,S11 8PN",
+	    "storecode": "1311",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3655137,
+          53.0670264
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000615",
+        "address": "Ripley High Street,DE5 3AA",
+	    "storecode": "127",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0941925,
+          51.51413950000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000853",
+        "address": "London Cheapside,EC2V 6DN",
+	    "storecode": "877",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7835855,
+          52.7071406
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001455",
+        "address": "Shrewsbury Mytton,SY3 8UG",
+	    "storecode": "5359",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1705469,
+          51.5336539
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000825",
+        "address": "London St Johns Wood,NW8 7SG",
+	    "storecode": "820",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072489,
+          51.5735378
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000862",
+        "address": "London Stamford Hill,N16 6TT",
+	    "storecode": "897",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1024177,
+          52.7955897
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000100",
+        "address": "Stafford Queens Retail Park,ST17 4SU",
+	    "storecode": "6596",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1806169,
+          52.6714058
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001543",
+        "address": "Wisbech Kirkgate Street,PE13 3QR",
+	    "storecode": "5540",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7974204,
+          53.1388701
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000295",
+        "address": "Llanrwst Denbigh Street,LL26 0LL",
+	    "storecode": "5641",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6435985000000001,
+          53.566725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000014",
+        "address": "Scunthorpe Ashby High Street,DN16 2SQ",
+	    "storecode": "116",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4029597,
+          53.0417619
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001032",
+        "address": "Ripley Church Farm Road,DE5 3TF",
+	    "storecode": "1338",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5020964,
+          53.4031751
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000590",
+        "address": "Sheffield Hillsborough Centre,S6 4HL",
+	    "storecode": "57",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4665756,
+          53.382938
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000007",
+        "address": "Sheffield High Street,S1 1QF",
+	    "storecode": "56",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4547186,
+          52.68245289999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001931",
+        "address": "Telford Telford Forge Retail Park,TF3 4AG",
+	    "storecode": "6577",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2467395,
+          51.6146275
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000926",
+        "address": "London Mill Hill,NW7 3LH",
+	    "storecode": "1041",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0243508,
+          53.105767
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000625",
+        "address": "Leek Derby Street,ST13 6HT",
+	    "storecode": "164",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0753937,
+          51.54846209999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000800",
+        "address": "London Dalston Kingsland High St,E8 2NS",
+	    "storecode": "778",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4792959,
+          53.38018779999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000584",
+        "address": "Sheffield West Street,S1 4EU",
+	    "storecode": "41",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1488975,
+          53.6154924
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001714",
+        "address": "Doncaster Askern Primary Care Ctr,DN6 0HZ",
+	    "storecode": "5909",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8654845,
+          52.8992596
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000628",
+        "address": "Uttoxeter High Street,ST14 7HT",
+	    "storecode": "169",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4350053,
+          53.4063921
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001267",
+        "address": "Sheffield Upwell Street,S4 8AN",
+	    "storecode": "2206",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4198527,
+          52.5357721
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000693",
+        "address": "Bridgnorth High Street,WV16 4DB",
+	    "storecode": "392",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3896306,
+          51.652385
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001908",
+        "address": "Watford Waterfield Retail Park,WD17 2EU",
+	    "storecode": "6527",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1385728,
+          51.5349734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001327",
+        "address": "London 8-10 Camden High Street,NW1 0JH",
+	    "storecode": "5062",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4155199,
+          52.7379416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001940",
+        "address": "Kings Lynn Hardwick Retail Park,PE30 4NA",
+	    "storecode": "6607",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.136166,
+          52.98813620000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000593",
+        "address": "Stoke On Trent Longton Exchange,ST3 2HX",
+	    "storecode": "67",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4678353,
+          52.4808432
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000585",
+        "address": "Oundle Market Place,PE8 4BQ",
+	    "storecode": "42",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1043921,
+          53.3187715
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001403",
+        "address": "Worksop Larwood Health Centre,S81 0HH",
+	    "storecode": "5270",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0626323,
+          53.4166464
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001670",
+        "address": "Doncaster Harworth Hc Scrooby Road,DN11 8JT",
+	    "storecode": "5809",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3126027,
+          51.61710189999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001086",
+        "address": "Stanmore Church Street,HA7 4AL",
+	    "storecode": "1472",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4831406,
+          53.0231717
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000603",
+        "address": "Belper King Street,DE56 1PS",
+	    "storecode": "19",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1657707,
+          51.5506691
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000032",
+        "address": "London Belsize Park,NW3 4QG",
+	    "storecode": "783",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3350929,
+          51.5950278
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000819",
+        "address": "Harrow Wealdstone,HA3 7AF",
+	    "storecode": "813",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4788535,
+          53.3563339
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001865",
+        "address": "Sheffield Heeley Retail Park,S8 0RG",
+	    "storecode": "6445",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1579295,
+          52.6655836
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000275",
+        "address": "Wisbech Old Market,PE13 1NB",
+	    "storecode": "5434",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09922589999999999,
+          51.5147303
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000808",
+        "address": "London Paternoster Square,EC4M 7DX",
+	    "storecode": "793",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.428926,
+          53.3753655
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001616",
+        "address": "Sheffield Manor Park Centre,S2 1WE",
+	    "storecode": "5688",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2629014,
+          51.49248979999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000785",
+        "address": "London Chiswick High Road,W4 5TA",
+	    "storecode": "747",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9420092,
+          53.320954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000581",
+        "address": "Retford Carolgate,DN22 6DY",
+	    "storecode": "32",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1523154,
+          53.6164885
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001721",
+        "address": "Doncaster Askern Church Street,DN6 0PH",
+	    "storecode": "5917",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68345,
+          52.9680571
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2000686",
+        "address": "Whitchurch Watergate Street,SY13 1DW",
+	    "storecode": "367",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.325197499999999,
+          54.9998671
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002094",
+        "address": "Londonderry Great James Street,BT48 7DF",
+	    "storecode": "4659",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9125023,
+          54.6745196
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002085",
+        "address": "Newtownabbey Hillview Avenue,BT36 6AE",
+	    "storecode": "4648",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8176291,
+          54.8515567
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002046",
+        "address": "Larne Main Street,BT40 1SS",
+	    "storecode": "1584",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9077342,
+          54.5559812
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002067",
+        "address": "Belfast Saintfield Road,BT8 7HN",
+	    "storecode": "4626",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6995173,
+          54.5942322
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002048",
+        "address": "Newtownards Regent Street,BT23 4LH",
+	    "storecode": "1588",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8069503,
+          54.7146738
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002056",
+        "address": "Carrickfergus Market Place,BT38 7AW",
+	    "storecode": "4608",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8902172,
+          54.5955835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002049",
+        "address": "Belfast Connswater Shopping Centre,BT5 5LP",
+	    "storecode": "1595",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9171923,
+          54.6555576
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002038",
+        "address": "Newtownabbey Abbeycentre,BT37 9UH",
+	    "storecode": "1557",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04495,
+          54.51054
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002072",
+        "address": "Lisburn Market Lane,BT28 1YG",
+	    "storecode": "4632",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2277844,
+          51.4979695
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002022",
+        "address": "Cardiff Broadcasting House,CF10 1FS",
+	    "storecode": "2156",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.001950000000001,
+          54.75379
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002075",
+        "address": "Ballyclare North End,BT39 9BN",
+	    "storecode": "4635",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.332166700000001,
+          54.4622666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002025",
+        "address": "Lurgan Market Street,BT66 6AH",
+	    "storecode": "597",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7634659,
+          54.5115302
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002039",
+        "address": "Dungannon Oaks Centre,BT71 4NA",
+	    "storecode": "1559",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2715495,
+          54.8752019
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002052",
+        "address": "Ballymena Health & Care Unit,BT43 6HB",
+	    "storecode": "1992",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.834303999999999,
+          54.6417707
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002070",
+        "address": "Holywood 46 High Street,BT18 9AE",
+	    "storecode": "4630",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.337816,
+          54.1723554
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002064",
+        "address": "Newry John Mitchel Place,BT34 2BP",
+	    "storecode": "4620",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.672570800000001,
+          54.84427729999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002087",
+        "address": "Maghera Main Street,BT46 5AA",
+	    "storecode": "4650",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6562861,
+          54.6474498
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002029",
+        "address": "Bangor Bloomfield Shopping Centre,BT19 7HB",
+	    "storecode": "643",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4433801,
+          54.4189814
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002086",
+        "address": "Portadown Thomas Street,BT62 3AL",
+	    "storecode": "4649",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.390674799999999,
+          54.4493518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002037",
+        "address": "Craigavon Rushmere Shopping Centre,BT64 1AA",
+	    "storecode": "1550",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.277899199999999,
+          54.860823
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002054",
+        "address": "Ballymena Queen Street,BT42 2BB",
+	    "storecode": "4602",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8539583,
+          54.5945912
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002068",
+        "address": "Belfast Upper Newtownards Road,BT4 3LH",
+	    "storecode": "4627",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8872586,
+          54.5981354
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002088",
+        "address": "Belfast 44 Holywood Road,BT4 1NT",
+	    "storecode": "4651",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9366926,
+          54.5900721
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002093",
+        "address": "Belfast Sandy Row,BT12 5EY",
+	    "storecode": "4658",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.955380799999999,
+          54.6217062
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002078",
+        "address": "Belfast Oldpark Road,BT14 6QU",
+	    "storecode": "4639",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.891702599999999,
+          54.5980252
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002095",
+        "address": "Belfast Newtownards Road,BT4 1HH",
+	    "storecode": "4660",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9434798,
+          54.6261042
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002065",
+        "address": "Belfast Cavehill,BT15 5BU",
+	    "storecode": "4622",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0807635,
+          54.5169547
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002082",
+        "address": "Lisburn Knockmore,BT28 2EA",
+	    "storecode": "4644",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.019525799999999,
+          55.0443047
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002077",
+        "address": "Ballykelly Shopping Well Centre,BT49 9HS",
+	    "storecode": "4637",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.887535199999999,
+          54.5934807
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002090",
+        "address": "Belfast Beersbridge Road,BT5 5DY",
+	    "storecode": "4655",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0577139,
+          54.491604
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002098",
+        "address": "Lisburn Sprucefield Shopping Centre,BT27 5UJ",
+	    "storecode": "6573",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6820431,
+          54.5965724
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002074",
+        "address": "Newtownards Stonegate,BT23 8ZE",
+	    "storecode": "4634",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2316996,
+          54.4786667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002084",
+        "address": "Moira Main Street,BT67 0LQ",
+	    "storecode": "4647",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0011801,
+          54.752595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002051",
+        "address": "Ballyclare The Square,BT39 9BB",
+	    "storecode": "1598",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.692595799999999,
+          54.593413
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002060",
+        "address": "Newtownards Frances Street,BT23 7DY",
+	    "storecode": "4613",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.326923099999999,
+          54.99946989999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002083",
+        "address": "Londonderry Lower Road,BT48 7DP",
+	    "storecode": "4646",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7037447,
+          54.6584792
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002036",
+        "address": "Bangor Rathmoor Shopping Centre,BT19 1DL",
+	    "storecode": "918",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.340468,
+          54.17188299999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002047",
+        "address": "Newry Buttercrane Shopping Centre,BT35 8HJ",
+	    "storecode": "1585",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7098965,
+          54.5928341
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002027",
+        "address": "Newtownards Ards Shopping Centre,BT23 4EU",
+	    "storecode": "625",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.899058999999999,
+          54.5840269
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002066",
+        "address": "Belfast 77 Cregagh Road,BT6 8PY",
+	    "storecode": "4624",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.353340999999999,
+          54.8883543
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002058",
+        "address": "Cullybackey Main Street,BT42 1BW",
+	    "storecode": "4611",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.331457299999999,
+          54.460317
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002091",
+        "address": "Lurgan Moores Lane,BT66 8AA",
+	    "storecode": "4656",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.910283199999999,
+          54.5914468
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002092",
+        "address": "Belfast Ravenhill,BT6 8DR",
+	    "storecode": "4657",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6438961,
+          54.6634063
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002076",
+        "address": "Bangor Ballyholme,BT20 5NF",
+	    "storecode": "4636",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7518537,
+          54.6477306
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002079",
+        "address": "Cookstown Burn,BT80 8DR",
+	    "storecode": "4641",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4477749,
+          54.42211709999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002044",
+        "address": "Portadown West Street,BT62 3PL",
+	    "storecode": "1579",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8860904,
+          54.5986866
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002055",
+        "address": "Belfast 72 Holywood Road,BT4 1NT",
+	    "storecode": "4605",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.792189,
+          54.5906996
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002035",
+        "address": "Dundonald Ballybean Square,BT16 2QP",
+	    "storecode": "701",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9628664,
+          54.5775976
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002097",
+        "address": "Belfast Boucher Road,BT12 6HU",
+	    "storecode": "6438",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9341053,
+          54.6011205
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002024",
+        "address": "Belfast Castle Court,BT1 1DD",
+	    "storecode": "574",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0369426,
+          54.50959289999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002062",
+        "address": "Lisburn Sloan street,BT27 5AG",
+	    "storecode": "4617",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.745404,
+          54.64582770000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002080",
+        "address": "Cookstown 47 James Street,BT80 8AE",
+	    "storecode": "4642",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.962386,
+          54.5891701
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002026",
+        "address": "Belfast Park Centre,BT12 6HN",
+	    "storecode": "601",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7454,
+          54.6466789
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002042",
+        "address": "Cookstown 5-7 James Street,BT80 8AA",
+	    "storecode": "1575",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7190669,
+          55.1849025
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002061",
+        "address": "Portstewart The Promenade,BT55 7AG",
+	    "storecode": "4614",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.303095099999999,
+          54.6000033
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002030",
+        "address": "Omagh High Street,BT78 1BA",
+	    "storecode": "653",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2192001,
+          54.7145713
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002053",
+        "address": "Antrim High St,BT41 4AN",
+	    "storecode": "4601",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2583635,
+          55.0201456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002089",
+        "address": "Strathfoyle Village Centre,BT47 6TJ",
+	    "storecode": "4653",
+        "region": "No"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7852778,
+          51.5969444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001966",
+        "address": "Port Talbot Aberfan Centre,SA13 1PB",
+	    "storecode": "291",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1479831,
+          52.65997710000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001971",
+        "address": "Welshpool Broad Street,SY21 7SD",
+	    "storecode": "364",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.660144900000001,
+          52.0846893
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001974",
+        "address": "Cardigan Prendre,SA43 1JL",
+	    "storecode": "464",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3103648,
+          53.1128337
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001979",
+        "address": "Ruthin Stryd Y Castell,LL15 1DP",
+	    "storecode": "482",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3141609,
+          53.2561486
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001980",
+        "address": "Llangefni High Street,LL77 7LT",
+	    "storecode": "487",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0176726,
+          51.8215502
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001969",
+        "address": "Abergavenny Cross Street,NP7 5EH",
+	    "storecode": "332",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0678826,
+          53.1810185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001982",
+        "address": "Bethesda Medical Centre,LL57 3NE",
+	    "storecode": "922",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9825877,
+          51.59598949999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001964",
+        "address": "Newport Caerleon Road,NP19 7FW",
+	    "storecode": "211",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0390602,
+          53.2120825
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001977",
+        "address": "Shotton Chester Road,CH5 1BX",
+	    "storecode": "476",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2342691,
+          51.6876151
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001984",
+        "address": "Bargoed Bryntirion Health Centre,CF81 8SA",
+	    "storecode": "1329",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1245291,
+          53.2277552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001987",
+        "address": "Bangor 277-279 High Street,LL57 1PD",
+	    "storecode": "1668",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.467929799999999,
+          52.03853170000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001978",
+        "address": "Newcastle Emlyn,SA38 9AP",
+	    "storecode": "478",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0913347,
+          51.5248223
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001998",
+        "address": "Cardiff St Mellons,CF3 0SH",
+	    "storecode": "5820",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.979287,
+          51.5899718
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001988",
+        "address": "Newport Chepstow Road,NP19 8EG",
+	    "storecode": "2013",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9656001,
+          51.6182107
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001993",
+        "address": "Swansea Uplands Crescent,SA2 0NP",
+	    "storecode": "2072",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9879124,
+          53.0442822
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001990",
+        "address": "Wrexham Eagles Meadow,LL13 8DG",
+	    "storecode": "2037",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7179178,
+          51.8106135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001992",
+        "address": "Monmouth Monnow Street,NP25 3EN",
+	    "storecode": "2058",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2208997,
+          53.2729509
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001997",
+        "address": "Holywell High Street,CH8 7TF",
+	    "storecode": "5774",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9725565,
+          53.169124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002000",
+        "address": "Chester Broughton Shopping Park,CH4 0DP",
+	    "storecode": "6419",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2073171,
+          51.7803976
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001968",
+        "address": "Ebbw Vale Market Street,NP23 6HL",
+	    "storecode": "320",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4198686,
+          53.183443
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001973",
+        "address": "Denbigh High Street,LL16 3RY",
+	    "storecode": "434",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1386695,
+          51.6761297
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002006",
+        "address": "Llanelli Parc Trostre Retail Park,SA14 9UY",
+	    "storecode": "6572",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9268943,
+          51.64360569999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002007",
+        "address": "Swansea Morfa Retail Park,SA1 7BP",
+	    "storecode": "6575",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7398186,
+          53.3089966
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001995",
+        "address": "Colwyn Bay Rhos on Sea,LL28 4PP",
+	    "storecode": "5640",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3805544,
+          51.5370882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002005",
+        "address": "Llanstrisant Talbot Green Retail,CF72 8LW",
+	    "storecode": "6547",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9254335,
+          51.6650038
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001967",
+        "address": "Swansea Morriston,SA6 8BH",
+	    "storecode": "294",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9865456,
+          51.7910145
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001976",
+        "address": "Ammanford Quay Street,SA18 3DB",
+	    "storecode": "474",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6141293,
+          51.818853
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001986",
+        "address": "Whitland St John Street,SA34 0AN",
+	    "storecode": "1652",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.401887,
+          52.1492032
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001991",
+        "address": "Builth Wells High Street,LD2 3DN",
+	    "storecode": "2054",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.005348,
+          53.0565984
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002001",
+        "address": "Wrexham Plas Coch Road,LL11 2BA",
+	    "storecode": "6434",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9440393,
+          51.5778422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002002",
+        "address": "Newport Retail Park,NP19 4QQ",
+	    "storecode": "6476",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9976637,
+          51.5748243
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001972",
+        "address": "Swansea Mumbles,SA3 4DN",
+	    "storecode": "428",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2188335,
+          51.4806655
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001985",
+        "address": "Cardiff Canton Sanatorium Road,CF11 8DG",
+	    "storecode": "1385",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9765611,
+          53.2561082
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001996",
+        "address": "Plas Menai Medical Centre,LL33 0NY",
+	    "storecode": "5644",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7029947,
+          51.4796349
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001970",
+        "address": "Porthcawl John Street,CF36 3BD",
+	    "storecode": "340",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4817093,
+          51.40824079999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001983",
+        "address": "Llantwit Major Boverton Road,CF61 1XZ",
+	    "storecode": "1285",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.172031,
+          51.48255899999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001994",
+        "address": "Cardiff Capitol Shopping Centre,CF10 2HQ",
+	    "storecode": "2078",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5199742,
+          53.3111709
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2001999",
+        "address": "Rhyl The Square,LL18 5AU",
+	    "storecode": "5959",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8214845,
+          53.3210949
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002009",
+        "address": "Llandudno Retail Park,LL30 1PX",
+	    "storecode": "6612",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9899466,
+          51.6503135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002003",
+        "address": "Swansea Fforest Fach Retail Park,SA5 4BB",
+	    "storecode": "6528",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1933096,
+          51.5265792
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002004",
+        "address": "Cardiff Ty Glas Retail Park,CF14 5DX",
+	    "storecode": "6542",
+        "region": "Wa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4897805,
+          52.9394843
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002133",
+        "address": "Hunstanton High Street,PE36 5AB",
+	    "storecode": "137",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58358,
+          53.4836022
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002132",
+        "address": "Sheffield Fox Valley Way,S36 2AB",
+	    "storecode": "2159",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0690799,
+          53.7833712
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002134",
+        "address": "Selby Market Cross Shopping Centre,YO8 4JS",
+	    "storecode": "5933",
+        "region": "En"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0828813,
+          52.55101550000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "2002135",
+        "address": "March Riverside Healthcentre,PE15 8BG",
+	    "storecode": "1638",
+        "region": "En"
+      }
+    }
+]
+}

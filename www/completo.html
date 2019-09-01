@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">  
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it">
+<head>
+<title>Esempio completo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords"
+content="layout a 3 colonne, 3 colonne percentuali, accessibilit&agrave;, usabilit&agrave;, xhtml, css, w3c, wcag, disabili, linee guida, la Legge Stanca, Legge 4/2004, analisi euristica" />
+<meta name="author"
+content="Laboratorio di Accessibilit&agrave; e Usabilit&agrave; del CSI-Piemonte" />
+<link rel="stylesheet" type="text/css" href="./css/completo.css" media="screen" />
+</head>
+<body>
+
+<!--container-->
+<div id="container">
+<a name="A-articolo"></a><a href="#contenuto" title="Vai ai contenuti"><span class="nascosto">Vai ai contenuti</span></a>
+<div class="nascosto">
+ <dl>
+  <dt>In questa sezione:</dt>
+<dd><a href="#A-articolo" title="Vai alla sezione Intestazione">Intestazione</a> |</dd>
+				<dd><a href="#menu-navigazione" title="Vai alla sezione Menu di navigazione">Menu di navigazione</a> |</dd>
+				<dd><a href="#contenuto" title="Vai alla sezione Contenuto">Contenuto</a> |</dd>
+				<dd><a href="#menu-secondario" title="Vai alla sezione Menu secondario">Menu secondario</a> |</dd>
+				<dd><a href="#pie" title="Vai alla sezione Pi&egrave; di pagina">Pi&egrave; di pagina</a> |</dd>
+	</dl>
+  </div>
+	  <hr />
+
+  <div id="intestazione">
+<a name="A-articolo"></a>
+			<h1><strong>&lt;div id=&quot;intestazione&quot;&gt;&lt;/div&gt;</strong></h1>
+	        <p>
+div#intestazione{<strong>position:relative; </strong>margin:0;
+padding:2px 5px;
+background: #AE4445;
+color: #fff;}
+  <br />
+ div#intestazione h1{font-family:Arial, Helvetica, sans-serif;
+font-size:1.2em;
+color:#fff;
+line-height:1.2;}
+  <br />
+ div#intestazione p{font-family:"Courier New", Courier, mono;
+font-size:1.1em;
+line-height:1.2;}</p>
+  </div>
+
+		<hr />
+<div id="corpo">
+
+			<div id="contenuto">
+<a name="contenuto"></a>
+<h2>&lt;div id=&quot;contenuto&quot;&gt;&lt;/div&gt; </h2>
+<p>
+div#contenuto{<br />
+  margin: 0 25%;
+  <br />
+  color: #000;
+  <br />
+  }
+  <br />
+ div#contenuto h2{
+  <br />
+  font-family:Arial, Helvetica, sans-serif;
+  <br />
+  font-size:1.2em;
+  <br />
+  padding:0 5px;
+  <br />
+  color:#000;
+  <br />
+  line-height:1.2;
+  <br />
+  }
+  <br />
+ div#contenuto p{
+  <br />
+  font-family:"Courier New", Courier, mono;
+  <br />
+  font-size:1.1em;
+  <br />
+  line-height:1.2;
+  <br />
+  padding:0 5px;
+  <br />
+  }</p>		
+  
+			</div>
+  </div>
+		
+		 <p class="nascosto"><a href="#A-articolo" title="torna all'inizio della pagina">torna su</a></p>
+<hr />
+<div id="menu-navigazione"><a name="menu-navigazione"></a>
+
+<h2>&lt;div id=&quot;menu-navigazione&quot;&gt;&lt;/div&gt;</h2>
+		<p>
+div#menu-navigazione{<br />
+background:#FADDA5;<br />
+color:#000;<br />
+<strong>float:left;<br />
+</strong>width:25%;<br />
+margin-left:-100%;<br />
+}<br />
+div#menu-navigazione h2{<br />
+font-family:Arial, Helvetica, sans-serif;<br />
+font-size:1.5em;<br />
+padding-bottom:5px;<br />
+padding:0 5px;<br />
+color:#000;<br />
+line-height:1.2;<br />
+<br />
+}<br />
+div#menu-navigazione p{<br />
+font-family:"Courier New", Courier, mono;<br />
+font-size:1.1em;<br />
+line-height:1.2;<br />
+padding:0 5px;<br />
+}
+</p>		
+  </div>
+		
+		<p class="nascosto"><a href="#A-articolo" title="torna all'inizio della pagina">torna su</a></p>
+<hr />
+<div id="menu-secondario">
+<a name="menu-secondario"></a>
+<h2>&lt;div id=&quot;menu-secondario&quot;&gt;&lt;/div&gt; </h2>
+			<p>
+div#menu-secondario{<br />
+background:#C7DEA5;
+<br />
+<strong>float:left;
+</strong><br />
+width:25%;
+<br />
+margin-left:-25%;
+<br />
+}<br />
+#menu-secondario h2{<br />
+font-family:Arial, Helvetica, sans-serif;<br />
+font-size:1.2em;
+<br />
+color:#000;
+<br />
+padding:0 5px;
+<br />
+}
+<br />
+div#menu-secondario p{<br />
+font-family:"Courier New", Courier, mono;<br />
+font-size:1em;
+<br />
+line-height:1.2;
+<br />
+padding:0 5px;
+<br />
+}</p>		
+  </div><p class="nascosto"><a href="#A-articolo" title="torna all'inizio della pagina">torna su</a></p>
+<hr />
+<div id="footer">
+<a name="pie"></a>
+	  <h2>&lt;div id=&quot;footer&quot;&gt;&lt;/div&gt; </h2>
+	  <p>
+div#footer{<strong>clear:left;</strong>width:100%;
+margin:0;
+background-color: #880507;
+color: #fff;
+padding:2px 5px;}
+  <br />
+div#footer h2{font-family:Arial, Helvetica, sans-serif;
+font-size:1.2em;
+color:#fff;}
+  <br />
+div#footer p{font-family:"Courier New", Courier, mono;
+font-size:1.1em;
+line-height:1.2;}</p>
+  </div>
+  		 <p class="nascosto"><a href="#A-articolo" title="torna all'inizio della pagina">torna su</a></p>
+</div>
+	<p><a href="#"><a href="index.shtml">torna indietro</a></p>
+
+</body>
+</html>
+

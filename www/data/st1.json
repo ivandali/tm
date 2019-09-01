@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+ "features": [
+ 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4711288,
+          53.36708609999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Pharmacy",
+        "companycode": "5687",
+        "address": "Sheffield Asline,S2 4UJ",
+        "storecode": "2001615"
+      }
+    }
+]
+}

@@ -1,0 +1,5990 @@
+{
+"type": "FeatureCollection",
+ "features": [
+ 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "COMPANY_CODE",
+        "address": "LABEL_ADDRESS,POSTAL_CODE",
+        "storecode": "SITE_CODE"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2088",
+        "address": "EAST LOOE (2088),PL13 1DS",
+        "storecode": "2001252"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2092",
+        "address": "READING (2092),RG1 2AH",
+        "storecode": "2001254"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6161",
+        "address": "Newark Northgate(6161),NG24 1GA",
+        "storecode": "2000000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "0021",
+        "address": "Bingham Eaton Place(0021),NG13 8BD",
+        "storecode": "2000002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5352",
+        "address": "HARLOW (5352),CM18 6NS",
+        "storecode": "2001452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "166",
+        "address": "HAVERHILL (166),CB9 8AD",
+        "storecode": "2000626"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1244",
+        "address": "THORNTON-CLEVELEYS (1244),FY5 1BS",
+        "storecode": "2001003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "167",
+        "address": "ST. IVES (167),PE27 5AH",
+        "storecode": "2000627"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "74",
+        "address": "Hinckley Britannia Ctr (74),LE10 1RU",
+        "storecode": "2000128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "162",
+        "address": "Stone High St (162),ST15 8AW ",
+        "storecode": "2000130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "256",
+        "address": "Redditch Kingfisher Sc (256),B97 4EY",
+        "storecode": "2000131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "285",
+        "address": "Aberdare Commercial Street,CF44 7RW",
+        "storecode": "2000132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "328",
+        "address": "Pembroke Dock Dimond Street,SA72 6AH",
+        "storecode": "2000133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "341",
+        "address": "Treorchy High Street,CF42 6AT",
+        "storecode": "2000134"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "366",
+        "address": "Newtown High Street,SY16 2NU ",
+        "storecode": "2000136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "380",
+        "address": "Rhyl High Street,LL18 1EN ",
+        "storecode": "2000137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "421",
+        "address": "Mold 19-21 High Street,CH7 1AZ ",
+        "storecode": "2000138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "443",
+        "address": "Llandudno Victoria Centre,LL30 2NG",
+        "storecode": "2000139"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "451",
+        "address": "Chepstow High Street,NP16 5LQ ",
+        "storecode": "2000140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "455",
+        "address": "Llandrindod Wells Station Crescent,LD1 5BB",
+        "storecode": "2000141"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "458",
+        "address": "Aberaeron Bridge Street,SA46 0AP ",
+        "storecode": "2000142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "468",
+        "address": "Tonypandy Dunraven Street,CF40 1AS",
+        "storecode": "2000144"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "617",
+        "address": "Airdrie 19 Graham St (617),ML6 6DD ",
+        "storecode": "2000145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "728",
+        "address": "London Poplar (728),E14 6BT ",
+        "storecode": "2000147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "786",
+        "address": "London Holloway Rd (786),N7 6QA ",
+        "storecode": "2000149"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "836",
+        "address": "Bromley The Glades Sc (836),BR 1HD",
+        "storecode": "2000150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "853",
+        "address": "London Wimbledon Ctr Ct Sc (853),SW19 8YE ",
+        "storecode": "2000151"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1019",
+        "address": "Romsey The Hundred (1019),SO51 8GD ",
+        "storecode": "2000153"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1023",
+        "address": "Fareham Westbury Mall (1023),PO16 0PE ",
+        "storecode": "2000154"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1038",
+        "address": "Slough High St (1038),SL1 1JR ",
+        "storecode": "2000155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1001",
+        "address": "Isle of Wight Ryde High St (1001),PO33 2HW",
+        "storecode": "2000156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1076",
+        "address": "South Ockendon Derwent Pde (1076),RM15 5EF",
+        "storecode": "2000157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1112",
+        "address": "Manchester Longsight (1112),M13 0RQ ",
+        "storecode": "2000158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1113",
+        "address": "Formby Chapel Ln (1113),L37 4DL",
+        "storecode": "2000159"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1144",
+        "address": "Oldham Chadderton (1144),OL9 0LQ",
+        "storecode": "2000160"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1147",
+        "address": "Skelmersdale (1147),WN8 6ND ",
+        "storecode": "2000162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1150",
+        "address": "Liverpool Clayton Sq Sc (1150),L1 1QR",
+        "storecode": "2000163"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1188",
+        "address": "Manchester Middleton Sc (1188),M24 4EL",
+        "storecode": "2000164"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1223",
+        "address": "Wigan Leigh (1223),WN7 4NB",
+        "storecode": "2000165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1227",
+        "address": "Manchester Atherton (1227),M46 0DP",
+        "storecode": "2000166"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1236",
+        "address": "Liverpool Crosby (1236),L23 5SF",
+        "storecode": "2000167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1251",
+        "address": "Stockport Edgeley (1251),SK3 9AL ",
+        "storecode": "2000168"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1255",
+        "address": "Droylsden Queens Walk (1255),M43 7AD",
+        "storecode": "2000169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1317",
+        "address": "Petersfield Swan Surgery (1317),GU32 3AB",
+        "storecode": "2000170"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1322",
+        "address": "Thatcham Hc (1322),RG18 3HD",
+        "storecode": "2000171"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "630",
+        "address": "Greenock Hamilton Way (630),PA15 1RQ ",
+        "storecode": "2000174"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "642",
+        "address": "Montrose High St (642),DD10 8QZ ",
+        "storecode": "2000175"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1333",
+        "address": "Derby Chaddesden Derw Pk Hc (1333),DE21 6AT",
+        "storecode": "2000176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1352",
+        "address": "Runcorn Hallwood Hc (1352),WA7 2UT",
+        "storecode": "2000177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1420",
+        "address": "Carshalton Middleton Rd (1420),SM5 1HA ",
+        "storecode": "2000178"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1813",
+        "address": "Harlow Broad Walk (1813),CM20 1JA ",
+        "storecode": "2000179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1817",
+        "address": "Romford Farnham Rd (1817),RM3 8DX ",
+        "storecode": "2000180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1862",
+        "address": "Selsey High St (1862),PO20 0QB",
+        "storecode": "2000181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2030",
+        "address": "Northwich Witton St (2030),CW9 5DH ",
+        "storecode": "2000182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2074",
+        "address": "Brecon Bethal Square,LD3 7JP",
+        "storecode": "2000183"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2105",
+        "address": "Tredegar Gwent Shopping Centre,NP22 3EJ",
+        "storecode": "2000184"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6028",
+        "address": "East Kilbride The Plz (6028),G74 1LW",
+        "storecode": "2000185"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "616",
+        "address": "Alexandria Main St (616),G83 0NX ",
+        "storecode": "2000188"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6478",
+        "address": "Liverpool New Mersey Rp (6478),L24 8QB",
+        "storecode": "2000189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "65",
+        "address": "Rustington 6-7 Churchill Pde (65),BN16 3DJ",
+        "storecode": "2000190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "165",
+        "address": "Biggleswade Market Sq (165),SG18 8AS ",
+        "storecode": "2000191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "217",
+        "address": "Birmingham Chelmsley Wood (217),B37 5TL",
+        "storecode": "2000192"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "600",
+        "address": "Glasgow 200 Sauchiehall St (600),G2 3EN ",
+        "storecode": "2000193"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "622",
+        "address": "Motherwell Brandon Pde South (622),ML1 1RE",
+        "storecode": "2000194"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "644",
+        "address": "Glasgow Silverburn Sc (644),G53 6AG ",
+        "storecode": "2000195"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "650",
+        "address": "Edinburgh 101-103 Princes St (650),EH2 3AA ",
+        "storecode": "2000196"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "669",
+        "address": "Dundee High St (669),DD1 1UL ",
+        "storecode": "2000197"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "715",
+        "address": "Basildon Town Sq (715),SS14 1BA ",
+        "storecode": "2000198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "717",
+        "address": "Ilford 177-185 High Rd (717),IG1 1DG ",
+        "storecode": "2000199"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "720",
+        "address": "London Wembley High Rd (720),HA9 7BH ",
+        "storecode": "2000200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "740",
+        "address": "Hounslow High St (740),TW3 1BL ",
+        "storecode": "2000201"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "746",
+        "address": "London Brent Cross Sc (746),NW4 3FB",
+        "storecode": "2000202"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "781",
+        "address": "London Swiss Cottage (781),NW3 6JP",
+        "storecode": "2000204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "798",
+        "address": "Barnet High St (798),EN5 5XP ",
+        "storecode": "2000205"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "846",
+        "address": "Bexleyheath Broadway Sc (846),DA6 7JJ",
+        "storecode": "2000207"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "858",
+        "address": "Sutton High St (858),SM1 1JG ",
+        "storecode": "2000208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "892",
+        "address": "London Eltham (892),SE9 1BW",
+        "storecode": "2000209"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "940",
+        "address": "Chatham Pentagon Ctr (940),ME4 4BB",
+        "storecode": "2000210"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "953",
+        "address": "Aldershot Wellington Ctr (953),GU11 1DB",
+        "storecode": "2000211"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1012",
+        "address": "Alton 52 High St (1012),GU34 1ET ",
+        "storecode": "2000213"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1240",
+        "address": "Prescot Eccleston St (1240),L34 5QJ ",
+        "storecode": "2000214"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1356",
+        "address": "Romford Market Pl (1356),RM1 3AB ",
+        "storecode": "2000215"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1452",
+        "address": "New Milton Station Rd (1452),BH25 6HY",
+        "storecode": "2000216"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1455",
+        "address": "Dagenham Heathway The Mall (1455),RM10 8RE",
+        "storecode": "2000217"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1465",
+        "address": "Burgess Hill Market Pl (1465),RH15 9NP",
+        "storecode": "2000218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1829",
+        "address": "Frinton On Sea Connaught Ave (1829),CO13 9PW ",
+        "storecode": "2000219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2014",
+        "address": "Bicester Sheep St (2014),OX26 6JJ ",
+        "storecode": "2000220"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2110",
+        "address": "Milford Haven Havens Head,SA73 3AU",
+        "storecode": "2000221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6050",
+        "address": "Kelso The Sq (6050),TD5 7HH ",
+        "storecode": "2000222"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6052",
+        "address": "Glasgow Braehead Ctr (6052),G51 4BP",
+        "storecode": "2000223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2028",
+        "address": "Glasgow Cmbrnd Antonine Sc (2028),G67 1JW",
+        "storecode": "2000224"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5067",
+        "address": "London Walthamstow Selbn Wk (5067),E17 7JR ",
+        "storecode": "2000225"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6449",
+        "address": "Aberdeen Garthdee Rd Rp (6449),AB10 7AY",
+        "storecode": "2000226"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6450",
+        "address": "Pboro Serpentine Green (6450),PE7 8BE",
+        "storecode": "2000227"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6487",
+        "address": "Kirkcaldy Fife Central Rp (6487),KY2 6QL",
+        "storecode": "2000228"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "682",
+        "address": "Falkirk 79-91 High St (682),FK1 1HB ",
+        "storecode": "2000230"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1302",
+        "address": "Rawtenstall Bacup Rd Hc (1302),BB4 7PL",
+        "storecode": "2000231"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1671",
+        "address": "IOW Ryde Tower Hse (1671),PO33 1LP",
+        "storecode": "2000233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1206",
+        "address": "Manchester Middleton Hc (1206),M24 4DZ",
+        "storecode": "2000234"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1208",
+        "address": "Frodsham The Princeway Hc (1208),WA6 6RX",
+        "storecode": "2000235"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1269",
+        "address": "Coventry Farren Rd (1269),CV2 5EP",
+        "storecode": "2000236"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1283",
+        "address": "Waltham Cross Goffs Oak (1283),EN7 5ET",
+        "storecode": "2000237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5291",
+        "address": "Halesworth Market Pl (5291),IP19 8AY ",
+        "storecode": "2000239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5292",
+        "address": "Faringdon Market Pl (5292),SN7 7HP ",
+        "storecode": "2000240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5296",
+        "address": "Stalham High St (5296),NR12 9AS",
+        "storecode": "2000241"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1303",
+        "address": "Nottm Bilboro Bracebridge (1303),NG8 4PN",
+        "storecode": "2000242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1401",
+        "address": "Appleby in Westmorland (1401),CA16 6XF",
+        "storecode": "2000243"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1417",
+        "address": "Llandysul Lincoln Street,SA44 4BJ ",
+        "storecode": "2000244"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1429",
+        "address": "Nuneaton Camp Hill (1429),CV10 9FB",
+        "storecode": "2000245"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1591",
+        "address": "St Osyth Clacton Rd (1591),CO16 8PA",
+        "storecode": "2000246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1599",
+        "address": "Lpool Litherland Seaforth (1599),L21 3TX ",
+        "storecode": "2000247"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2201",
+        "address": "Nuneaton St Nicholas Pk (2201),CV11 6DG ",
+        "storecode": "2000248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2207",
+        "address": "Longtown English St (2207),CA6 5SD",
+        "storecode": "2000249"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "808",
+        "address": "London Brixton Rd (808),SW9 8HH ",
+        "storecode": "2000033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "809",
+        "address": "Epsom Ashley Ctr (809),KT18 5DB ",
+        "storecode": "2000034"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "864",
+        "address": "London Tooting (864),SW17 9PB ",
+        "storecode": "2000036"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "912",
+        "address": "Edgware Broadwalk Sc (912),HA8 7BD",
+        "storecode": "2000040"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "928",
+        "address": "Ashford High St (928),TN24 8TB ",
+        "storecode": "2000041"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "936",
+        "address": "Tonbridge High St (936),TN9 1SG ",
+        "storecode": "2000042"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "960",
+        "address": "Redhill High Street(960),RH1 1RD",
+        "storecode": "2000043"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "978",
+        "address": "Gillingham Hempstead Val Sc (978),ME7 3PB",
+        "storecode": "2000044"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1248",
+        "address": "Clitheroe Castle St (1248),BB7 2BT ",
+        "storecode": "2000061"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1323",
+        "address": "Bournemouth Beauford Rd Surg(1323),BH6 5AJ",
+        "storecode": "2000063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1331",
+        "address": "Pboro Bretton Rightwell East (1331),PE3 8DT ",
+        "storecode": "2000068"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1337",
+        "address": "Stoke On T Bentilee Hc (1337),ST2 0EU",
+        "storecode": "2000071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1359",
+        "address": "Leicester Syston (1359),LE7 2EQ",
+        "storecode": "2000074"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1377",
+        "address": "Corby Lakeside Surgery (1377),NN17 2UR",
+        "storecode": "2000078"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1801",
+        "address": "Nottingham Arnold (1801),NG5 7EB",
+        "storecode": "2000087"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1855",
+        "address": "Daventry Bowen Sq (1855),NN11 4DR ",
+        "storecode": "2000089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "368",
+        "address": "Newport High St (368),TF10 7AQ ",
+        "storecode": "2000021"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "519",
+        "address": "Middlesbrough Cleveland Centre(519),TS1 2JZ",
+        "storecode": "2000024"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "577",
+        "address": "Chichester 10-12 North Street(577),PO19 1LB",
+        "storecode": "2000026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2001",
+        "address": "Leighton Buzzard High St (2001),LU7 1DN",
+        "storecode": "2000090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6436",
+        "address": "Colchester Tollgate Ctr (6436),CO3 8RG ",
+        "storecode": "2000097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6553",
+        "address": "Chelmsford Chelmer Vil Rp (6553),CM2 6XE",
+        "storecode": "2000099"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5531",
+        "address": "Melton Mowbray Hc (5531),LE13 1NX",
+        "storecode": "2000102"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "64",
+        "address": "Burton On Trent Coopers Sq (64),DE14 1DG ",
+        "storecode": "2000103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1193",
+        "address": "Darwen Market St (1193),BB3 1AZ ",
+        "storecode": "2000104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "38",
+        "address": "Leicester Wigston Bell St (38),LE18 1AD",
+        "storecode": "2000105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "503",
+        "address": "Burnley St James St (503),BB11 1QL",
+        "storecode": "2000106"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1173",
+        "address": "Accrington Cornhill (1173),BB5 1EX",
+        "storecode": "2000107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "71",
+        "address": "Swadlincote High St (71),DE11 8JE ",
+        "storecode": "2000108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6",
+        "address": "Nottingham Victoria Ctr (6),NG1 3QS",
+        "storecode": "2000109"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "17",
+        "address": "Nottingham Clifton (17),NG11 8AA",
+        "storecode": "2000110"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "84",
+        "address": "Northampton The Pde (84),NN1 2BY ",
+        "storecode": "2000111"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "107",
+        "address": "Northampton Kingsthorpe (107),NN2 7SJ ",
+        "storecode": "2000112"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "141",
+        "address": "Ashby De La Zouch Market St (141),LE65 1AL",
+        "storecode": "2000113"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "160",
+        "address": "Rugeley Brook Sq (160),WS15 2DT ",
+        "storecode": "2000114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "189",
+        "address": "Leicester Beaumont Leys (189),LE4 1DG ",
+        "storecode": "2000115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "531",
+        "address": "Bolton The Gates Sc (531),BL1 1DF",
+        "storecode": "2000116"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1115",
+        "address": "Stockport Merseyway (1115),SK1 1PU",
+        "storecode": "2000117"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1298",
+        "address": "Birmingham High St (1298),B4 7TA",
+        "storecode": "2000118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "176",
+        "address": "Sudbury Market Hill (176),CO10 2EA ",
+        "storecode": "2000119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "342",
+        "address": "Blackwood Market Place,NP12 1AU ",
+        "storecode": "2000120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "175",
+        "address": "Saffron Walden Market Pl (175),CB10 1HR ",
+        "storecode": "2000121"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1386",
+        "address": "Skegness Churchill Ave Hc (1386),PE25 2RN",
+        "storecode": "2000122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1467",
+        "address": "Hailsham Vicarage Field (1467),BN27 1BG",
+        "storecode": "2000123"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2023",
+        "address": "Cwmbran The Mall,NP44 1PX ",
+        "storecode": "2000124"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6002",
+        "address": "Glenrothes Lyon Sq (6002),KY7 5NR ",
+        "storecode": "2000125"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6408",
+        "address": "Prestatyn Shopping Park,LL19 9BJ",
+        "storecode": "2000126"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "51",
+        "address": "Swaffham Market Pl (51),PE37 7LA",
+        "storecode": "2000127"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5410",
+        "address": "Grantham St Peters Hill (5410),NG31 6QF",
+        "storecode": "2000362"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5954",
+        "address": "Cwmbran Commercial Street,NP44 3LR",
+        "storecode": "2000364"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5382",
+        "address": "Wymondham Medical Centre (5382),NR18 0NL",
+        "storecode": "2000365"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "756",
+        "address": "Hitchin High Street (756),SG5 1BH",
+        "storecode": "2000369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "37",
+        "address": "Grantham High Street (37),NG31 6NE",
+        "storecode": "2000370"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "258",
+        "address": "Bromsgrove High St (258),B61 8HD",
+        "storecode": "2000372"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1299",
+        "address": "Manchester Blackley (1299),M9 0RD",
+        "storecode": "2000374"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5745",
+        "address": "SOUTHAMPTON (5745),SO16 3BD",
+        "storecode": "2001633"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5465",
+        "address": "WIRRAL (5465),CH49 0UB",
+        "storecode": "2001503"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "132",
+        "address": "UXBRIDGE (132),UB8 1GA",
+        "storecode": "2000616"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "351",
+        "address": "PLYMOUTH (351),PL7 2ZN",
+        "storecode": "2000678"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "801",
+        "address": "BARKING (801),IG11 8EQ",
+        "storecode": "2000812"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "356",
+        "address": "SHERBORNE (356),DT9 3BA",
+        "storecode": "2000683"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5599",
+        "address": "FAIRFORD (5599),GL7 4AB",
+        "storecode": "2001575"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "138",
+        "address": "PETERBOROUGH (138),PE1 1NW",
+        "storecode": "2000618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "812",
+        "address": "WELWYN GARDEN CITY (812),AL8 6HA",
+        "storecode": "2000818"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5763",
+        "address": "READING (5763),RG6 5GA",
+        "storecode": "2001643"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2381",
+        "address": "Barrow IF Risedale Rd (2381),LA13 9RD ",
+        "storecode": "2000252"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5020",
+        "address": "Shepperton High St (5020),TW17 9AJ ",
+        "storecode": "2000253"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5023",
+        "address": "Ashford Church Rd (5023),TW15 2TS ",
+        "storecode": "2000254"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5073",
+        "address": "Woking Goldsworth Pk Ctr (5073),GU21 3LG",
+        "storecode": "2000255"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5087",
+        "address": "Upton Upon Severn High St (5087),WR8 0HB",
+        "storecode": "2000256"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5259",
+        "address": "Hamilton Mill Rd (5259),ML3 8AA ",
+        "storecode": "2000259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5279",
+        "address": "Crickhowell Beaufort Street,NP8 1AD",
+        "storecode": "2000260"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5288",
+        "address": "Burnham On Crouch (5288),CM0 8BL ",
+        "storecode": "2000261"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5185",
+        "address": "Christchurch Bransgore (5185),BH23 8AB",
+        "storecode": "2000262"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5195",
+        "address": "Leicester 149 Uppingham Rd (5195),LE5 4BP ",
+        "storecode": "2000263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5224",
+        "address": "Great Shelford Woolards Ln (5224),CB22 5LZ",
+        "storecode": "2000264"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5250",
+        "address": "Motherwell Windmillhill St (5250),ML1 1TA ",
+        "storecode": "2000265"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5351",
+        "address": "Harlow Bush Fair North Hs (5351),CM18 6PA",
+        "storecode": "2000266"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5353",
+        "address": "Tilbury St Chads Rd (5353),RM18 8LB",
+        "storecode": "2000267"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5361",
+        "address": "Telford Shawbirch (5361),TF5 0LW ",
+        "storecode": "2000268"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5376",
+        "address": "Birmingham Chelmsley Wd Hc (5376),B37 5BU ",
+        "storecode": "2000269"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5386",
+        "address": "Kilmarnock Grange St (5386),KA1 2DD ",
+        "storecode": "2000270"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5413",
+        "address": "Cowes Hc (5413),PO31 7ER",
+        "storecode": "2000271"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5417",
+        "address": "Formby Elbow Ln (5417),L37 4AB ",
+        "storecode": "2000273"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5425",
+        "address": "North Walsham Market Pl (5425),NR28 9BP",
+        "storecode": "2000274"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5440",
+        "address": "Danbury Eves Corner (5440),CM3 4QF",
+        "storecode": "2000276"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5441",
+        "address": "Great Baddow The Vineyards (5441),CM2 7QS",
+        "storecode": "2000277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5471",
+        "address": "Brandon High St (5471),IP27 0AQ ",
+        "storecode": "2000279"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5480",
+        "address": "Nottingham Gregory Bvd (5480),NG7 5HY",
+        "storecode": "2000280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5488",
+        "address": "Chelmsford Hatfield (5488),CM3 2HD",
+        "storecode": "2000281"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5506",
+        "address": "Loddon High St (5506),NR14 6AH ",
+        "storecode": "2000282"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5520",
+        "address": "Hitchin Queen St (5520),SG4 9TH ",
+        "storecode": "2000283"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5523",
+        "address": "Sileby Swan St (5523),LE12 7NW",
+        "storecode": "2000285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5530",
+        "address": "Oakham Cold Overton Rd (5530),LE15 6NT ",
+        "storecode": "2000286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5535",
+        "address": "Stockingford Arbury Rd (5535),CV10 7NJ ",
+        "storecode": "2000287"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5538",
+        "address": "Dursley Cam (5538),GL11 5NU",
+        "storecode": "2000288"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5566",
+        "address": "Welwyn Moors Walk (5566),AL7 2BQ",
+        "storecode": "2000289"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5595",
+        "address": "Llandudno Penryhn Bay,LL30 3HA",
+        "storecode": "2000290"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5611",
+        "address": "Airdrie Southbridge (5611),ML6 6JQ",
+        "storecode": "2000291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5614",
+        "address": "Christchurch Twynham Ave (5614),BH23 1QU ",
+        "storecode": "2000292"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5631",
+        "address": "Claygate Hare Ln (5631),KT10 0QX",
+        "storecode": "2000294"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5645",
+        "address": "Chelmsford Sunrise (5645),CM1 4JW ",
+        "storecode": "2000296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5668",
+        "address": "Basildon Pitsea (5668),SS13 3DU",
+        "storecode": "2000297"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5689",
+        "address": "Ashton In Makerfield Bryn (5689),WN4 0AR",
+        "storecode": "2000300"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5695",
+        "address": "Norwich Aylsham Rd (5695),NR3 2HW ",
+        "storecode": "2000301"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5712",
+        "address": "East Kilbride Brouster (5712),G74 1LD",
+        "storecode": "2000303"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5715",
+        "address": "Glasg Cmbrnd Auch Dist Ctr (5715),G68 0EZ",
+        "storecode": "2000304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5741",
+        "address": "Hampton Priory Rd (5741),TW12 2NT ",
+        "storecode": "2000305"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5773",
+        "address": "Liverpool Maghull (5773),L31 2PQ ",
+        "storecode": "2000307"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5798",
+        "address": "Woodhall Spa (5798),LN10 6ST ",
+        "storecode": "2000308"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5807",
+        "address": "Leyland Hough Ln (5807),PR25 2SA ",
+        "storecode": "2000309"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5818",
+        "address": "London Morden Hall Hc (5818),SW19 3DA",
+        "storecode": "2000311"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5877",
+        "address": "Dunoon 182 Argyll St (5877),PA23 7HA ",
+        "storecode": "2000313"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5882",
+        "address": "Sandwich Market St (5882),CT13 9DA ",
+        "storecode": "2000314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5951",
+        "address": "Harleston Norfolk (5951),IP20 9AH ",
+        "storecode": "2000315"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5961",
+        "address": "North Cheam Malden Rd (5961),SM3 8EP ",
+        "storecode": "2000317"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5962",
+        "address": "Pevensey Bay Eastbourne Rd (5962),BN24 6ET",
+        "storecode": "2000318"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5970",
+        "address": "New Addington Central Pde (5970),CR0 0JB",
+        "storecode": "2000319"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5974",
+        "address": "Liverpool Whiston (5974),L35 3SX",
+        "storecode": "2000320"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5981",
+        "address": "Sawston High St (5981),CB22 3BG",
+        "storecode": "2000321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5986",
+        "address": "Stansted The Greens Bd (5986),CM24 8BZ ",
+        "storecode": "2000322"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6011",
+        "address": "Hanworth Market Pde (6011),TW13 6AJ",
+        "storecode": "2000323"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2162",
+        "address": "Aberdeen Foresterhill Hc (6108),AB25 2UZ",
+        "storecode": "2000324"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6111",
+        "address": "Knighton Wylcwm Place,LD7 1AE ",
+        "storecode": "2000325"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6113",
+        "address": "Shipston On Stour Sheep St (6113),CV36 4AF ",
+        "storecode": "2000326"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6132",
+        "address": "Mold 32 High Street,CH7 1BH ",
+        "storecode": "2000327"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6200",
+        "address": "Solihull Olton (6200),B92 7QP",
+        "storecode": "2000328"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6221",
+        "address": "Great Harwood Queens St (6221),BB6 7QQ",
+        "storecode": "2000329"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6258",
+        "address": "Sawtry High St (6258),PE28 5SU",
+        "storecode": "2000330"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6260",
+        "address": "MALMESBURY (6260),SN16 0EQ",
+        "storecode": "2001829"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5186",
+        "address": "LYMINGTON (5186),SO41 9GJ",
+        "storecode": "2001367"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1027",
+        "address": "BASINGSTOKE (1027),RG22 6ER",
+        "storecode": "2000919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5189",
+        "address": "ROCHESTER (5189),ME1 2TH",
+        "storecode": "2001369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5994",
+        "address": "ANDOVER (5994),SP10 3JY",
+        "storecode": "2001766"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "23",
+        "address": "Derby Intu Shopping Centre (23),DE1 2AH",
+        "storecode": "2000353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1834",
+        "address": "London Kentish Town Road (1834),NW5 2AE",
+        "storecode": "2000356"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "215",
+        "address": "Birmingham Harborne (215),B17 9NR",
+        "storecode": "2000357"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5889",
+        "address": "Hemel Hemp Stoneycroft (5889),HP1 2QF",
+        "storecode": "2000358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1194",
+        "address": "NEWTON-LE-WILLOWS (1194),WA12 9AN",
+        "storecode": "2000984"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "564",
+        "address": "WETHERBY (564),LS22 6FL",
+        "storecode": "2000751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1215",
+        "address": "WIGAN (1215),WN4 9AN",
+        "storecode": "2000993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5202",
+        "address": "PETERBOROUGH (5202),PE6 7UP",
+        "storecode": "2001376"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5903",
+        "address": "GRIMSBY (5903),DN31 1QZ",
+        "storecode": "2001711"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1049",
+        "address": "WATFORD (1049),WD24 5BQ",
+        "storecode": "2000928"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "149",
+        "address": "LONDON (149),E6 2HT",
+        "storecode": "2000620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1143",
+        "address": "Oldham Town Sq Sc (1143),OL1 1XD",
+        "storecode": "2000336"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1200",
+        "address": "Manchester Market Street (1200),M1 1PL",
+        "storecode": "2000338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "199",
+        "address": "Colchester Lion Walk (199),CO1 1LX",
+        "storecode": "2000350"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1414",
+        "address": "BANSTEAD (1414),SM7 2NL",
+        "storecode": "2001061"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1537",
+        "address": "GILLINGHAM (1537),ME8 7HW",
+        "storecode": "2001123"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1060",
+        "address": "GREENHITHE (1060),DA9 9SJ",
+        "storecode": "2000931"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6077",
+        "address": "CAMBERLEY (6077),GU16 6LD",
+        "storecode": "2001779"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5486",
+        "address": "WITHAM (5486),CM8 1NE",
+        "storecode": "2001514"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "595",
+        "address": "DRIFFIELD (595),YO25 6PS",
+        "storecode": "2000759"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1815",
+        "address": "CHELMSFORD (1815),CM1 1DD",
+        "storecode": "2000551"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5336",
+        "address": "REDRUTH (5336),TR16 4SS",
+        "storecode": "2001441"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5344",
+        "address": "DERBY (5344),DE74 2ED",
+        "storecode": "2001447"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1565",
+        "address": "LEEDS (1565),LS26 8SZ",
+        "storecode": "2001132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1590",
+        "address": "MORECAMBE (1590),LA4 4UZ",
+        "storecode": "2001137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5673",
+        "address": "CANVEY ISLAND (5673),SS8 0JA",
+        "storecode": "2001608"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "966",
+        "address": "HOVE (966),BN3 5TD",
+        "storecode": "2000893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6227",
+        "address": "COLCHESTER (6227),CO3 4PG",
+        "storecode": "2001807"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1917",
+        "address": "GRANTHAM (1917),NG31 6HR",
+        "storecode": "2001201"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1918",
+        "address": "NOTTINGHAM (1918),NG6 8AQ",
+        "storecode": "2001202"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "411",
+        "address": "OKEHAMPTON (411),EX20 1HB",
+        "storecode": "2000699"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "433",
+        "address": "WARMINSTER (433),BA12 9AZ",
+        "storecode": "2000706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "40",
+        "address": "MARKET RASEN (0040),LN8 3EH",
+        "storecode": "2000384"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "45",
+        "address": "BARNSLEY (0045),S70 1RT",
+        "storecode": "2000385"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "479",
+        "address": "WOKINGHAM (479),RG40 1AT",
+        "storecode": "2000719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "850",
+        "address": "RICHMOND (850),TW9 1HF",
+        "storecode": "2000842"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2353",
+        "address": "SOUTH PETHERTON (2353),TA13 5BT",
+        "storecode": "2001285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "735",
+        "address": "LONDON (735),NW1 7JY",
+        "storecode": "2000781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "862",
+        "address": "WELLINGTON (862),TA21 8BD",
+        "storecode": "2000846"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5534",
+        "address": "LICHFIELD (5534),WS13 7FA",
+        "storecode": "2001541"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5921",
+        "address": "MABLETHORPE (5921),LN12 1AF",
+        "storecode": "2001724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "931",
+        "address": "UXBRIDGE (931),UB8 1JZ",
+        "storecode": "2000876"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5927",
+        "address": "LINCOLN (5927),LN7 6TJ",
+        "storecode": "2001729"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "947",
+        "address": "FILEY (947),YO14 0JR",
+        "storecode": "2000882"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5394",
+        "address": "MAIDSTONE (5394),ME15 6SA",
+        "storecode": "2001469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6110",
+        "address": "LYDNEY (6110),GL15 6JS",
+        "storecode": "2001785"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "172",
+        "address": "DEREHAM (172),NR19 2AP",
+        "storecode": "2000630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1087",
+        "address": "ORPINGTON (1087),BR6 0LS",
+        "storecode": "2000943"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5162",
+        "address": "HIGH PEAK (5162),SK22 4BP",
+        "storecode": "2001354"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "196",
+        "address": "WITHAM (196),CM8 2AR",
+        "storecode": "2000638"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6128",
+        "address": "LISS (6128),GU33 7RL",
+        "storecode": "2001798"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5249",
+        "address": "WARMINSTER (5249),BA12 9AA",
+        "storecode": "2001393"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5511",
+        "address": "PEWSEY (5511),SN9 5AQ",
+        "storecode": "2001529"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6437",
+        "address": "PRESCOT (6437),L34 5NQ",
+        "storecode": "2001862"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6446",
+        "address": "NORTHAMPTON (6446),NN5 5DG",
+        "storecode": "2001866"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5180",
+        "address": "WATERLOOVILLE (5180),PO7 6NU",
+        "storecode": "2001364"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1305",
+        "address": "HULL (1305),HU6 9BX",
+        "storecode": "2001023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1437",
+        "address": "LONDON (1437),E11 2AE",
+        "storecode": "2001071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5628",
+        "address": "SWINDON (5628),SN6 6AA",
+        "storecode": "2001589"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5637",
+        "address": "MIDDLESBROUGH (5637),TS1 3QY",
+        "storecode": "2001594"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1475",
+        "address": "STANFORD-LE-HOPE (1475),SS17 7NA",
+        "storecode": "2001088"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1152",
+        "address": "SOUTHPORT (1152),PR8 1AH",
+        "storecode": "2000524"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "761",
+        "address": "ROYSTON (761),SG8 9AG",
+        "storecode": "2000791"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2020",
+        "address": "RUNCORN (2020),WA7 2GX",
+        "storecode": "2001232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5560",
+        "address": "BODMIN (5560),PL31 2JL",
+        "storecode": "2001554"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5290",
+        "address": "NESTON (5290),CH64 9TY",
+        "storecode": "2001414"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5305",
+        "address": "LOUTH (5305),LN11 9AA",
+        "storecode": "2001419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5311",
+        "address": "BARROW IN FURNESS (5311),LA14 1JB",
+        "storecode": "2001421"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5016",
+        "address": "BILLINGHAM (5016),TS23 2ND",
+        "storecode": "2001305"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "30",
+        "address": "NEWPORT PAGNELL (30),MK16 8PY",
+        "storecode": "2000580"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "44",
+        "address": "DURHAM (44),DH1 4SH",
+        "storecode": "2000586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5153",
+        "address": "BARNSTAPLE (5153),EX31 3BG",
+        "storecode": "2001351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5941",
+        "address": "MABLETHORPE (5941),LN12 2DR",
+        "storecode": "2001739"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5003",
+        "address": "FELTHAM (5003),TW13 4BH",
+        "storecode": "2001295"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5814",
+        "address": "NORWICH (5814),NR3 4LE",
+        "storecode": "2001673"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "242",
+        "address": "THAME (242),OX9 2BU",
+        "storecode": "2000652"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "243",
+        "address": "BRISTOL (243),BS1 3EA",
+        "storecode": "2000653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "987",
+        "address": "DOVER (987),CT16 1BH",
+        "storecode": "2000900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "249",
+        "address": "BANBURY (249),OX16 5UH",
+        "storecode": "2000658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "997",
+        "address": "EDENBRIDGE (997),TN8 5AD",
+        "storecode": "2000903"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "263",
+        "address": "BARNSTAPLE (263),EX31 3NL",
+        "storecode": "2000660"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5845",
+        "address": "MIDDLESBROUGH (5845),TS8 0TJ",
+        "storecode": "2001691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5851",
+        "address": "EXETER (5851),EX4 1HW",
+        "storecode": "2001695"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1018",
+        "address": "ANDOVER (1018),SP10 1LT",
+        "storecode": "2000916"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "330",
+        "address": "OXFORD (330),OX1 3HL",
+        "storecode": "2000673"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5367",
+        "address": "SOMERTON (5367),TA11 7PR",
+        "storecode": "2001459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1123",
+        "address": "SALE (1123),M33 7XZ",
+        "storecode": "2000960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1140",
+        "address": "BURY (1140),BL9 0QQ",
+        "storecode": "2000969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1151",
+        "address": "RUNCORN (1151),WA7 2ST",
+        "storecode": "2000973"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5774",
+        "address": "Holywell High Street,CH8 7TF",
+        "storecode": "2001997"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5952",
+        "address": "SOUTHAMPTON (5952),SO32 1AB",
+        "storecode": "2001745"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1279",
+        "address": "WORKINGTON (1279),CA14 2AB",
+        "storecode": "2000537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5973",
+        "address": "WEST MALLING (5973),ME19 6NA",
+        "storecode": "2001755"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1374",
+        "address": "STANLEY (1374),DH9 8AD",
+        "storecode": "2001041"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1488",
+        "address": "SALISBURY (1488),SP1 2NG",
+        "storecode": "2000544"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1523",
+        "address": "CANTERBURY (1523),CT1 2TF",
+        "storecode": "2000545"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5880",
+        "address": "BURNLEY (5880),BB11 3ND",
+        "storecode": "2001698"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5420",
+        "address": "CAMBERLEY (5420),GU15 2NN",
+        "storecode": "2001480"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5424",
+        "address": "HORNCASTLE (5424),LN9 6AL",
+        "storecode": "2001482"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1498",
+        "address": "HORNCHURCH (1498),RM12 4UH",
+        "storecode": "2001102"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5443",
+        "address": "BASILDON (5443),SS15 5HL",
+        "storecode": "2001491"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5445",
+        "address": "LONDON (5445),E1 0LB",
+        "storecode": "2001493"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5454",
+        "address": "SALISBURY (5454),SP3 6LD",
+        "storecode": "2001497"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1199",
+        "address": "LIVERPOOL (1199),L11 1BY",
+        "storecode": "2000988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "495",
+        "address": "BRACKLEY (495),NN13 7DP",
+        "storecode": "2000725"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "500",
+        "address": "LEEDS (500),LS1 5EY",
+        "storecode": "2000727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1678",
+        "address": "KINGS LYNN (1678),PE30 5QX",
+        "storecode": "2001170"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "527",
+        "address": "THIRSK (527),YO7 1LB",
+        "storecode": "2000736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6493",
+        "address": "NEWBURY (6493),RG14 7HU",
+        "storecode": "2001890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6494",
+        "address": "LINCOLN (6494),LN2 4WA",
+        "storecode": "2001891"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5027",
+        "address": "UXBRIDGE (5027),UB9 5ET",
+        "storecode": "2001310"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "1998",
+        "address": "Newbury Retail Pk,RG14 7HU",
+        "storecode": "2002101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2129",
+        "address": "Fazakerley Landford Ave Liverpool,L9 6BR",
+        "storecode": "2002102"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "2167",
+        "address": "Boots Online Prescription Service,LE1 1DD",
+        "storecode": "2002099"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6706",
+        "address": "Galashiels Gala Water Retail Park,TD1 3AP",
+        "storecode": "2002110"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5813",
+        "address": "Norwich Magdalen Medical Practice,NR3 4LF",
+        "storecode": "2002106"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5844",
+        "address": "Dersingham Jubilee Court,PE31 6HH",
+        "storecode": "2002108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5578",
+        "address": "Whittlesey New Queen Street,PE7 1AT",
+        "storecode": "2002103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5709",
+        "address": "Livingston Mall,EH54 5ED",
+        "storecode": "2002105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "229",
+        "address": "Holbeach High Street,PE12 7DY",
+        "storecode": "2002100"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5821",
+        "address": "Glenrothes Cos Lane,KY7 4AQ",
+        "storecode": "2002107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6598",
+        "address": "Elgin Springfield Retail Park,IV30 6WQ",
+        "storecode": "2002109"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5643",
+        "address": "Newbury Bartholomew Street,RG14 5EF",
+        "storecode": "2002104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "6523",
+        "address": "BOURNEMOUTH (6523),BH8 9UB",
+        "storecode": "2001906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "5184",
+        "address": "WINCHESTER (5184),SO22 6EL",
+        "storecode": "2001366"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          DSP_LIVE,
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "",
+        "companycode": "280",
+        "address": "Swansea The Quadrant Centre,SA1 3AD",
+        "storecode": "2002011"
+      }
+    }
+]
+}

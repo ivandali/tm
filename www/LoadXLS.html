@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Javascript Set Form Action Example</title>
+<!-- Include CSS file here 
+<link href="css/style.css" rel="stylesheet">
+<!-- Include JS file here 
+<script src="js/set_action.js"></script>
+-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xls/0.7.4-a/xls.js"></script>
+<!--<script src="xlsx.full.min.js"></script>-->
+</head>
+<body>
+<input type="file" id="my_file_input" />
+<div id='my_file_output'></div>
+<!--<input onclick="LoadXLS()" type="button" value="Submit">-->
+<script>
+     var oFileIn;
+
+    $(function() {
+        oFileIn = document.getElementById('my_file_input');
+        if(oFileIn.addEventListener) {
+            oFileIn.addEventListener('change', filePicked, false);
+        }
+    });
+
+
+function filePicked(oEvent) {
+    // Get The File From The Input
+    var oFile = oEvent.target.files[0];
+    var sFilename = oFile.name;
+    // Create A File Reader HTML5
+    var reader = new FileReader();
+
+    // Ready The Event For When A File Gets Selected
+    reader.onload = function(e) {
+        var data = e.target.result;
+        var cfb = XLS.CFB.read(data, {type: 'binary'});
+        var wb = XLS.parse_xlscfb(cfb);
+        // Loop Over Each Sheet
+        wb.SheetNames.forEach(function(sheetName) {
+            // Obtain The Current Row As CSV
+            var sCSV = XLS.utils.make_csv(wb.Sheets[sheetName]);   
+            var oJS = XLS.utils.sheet_to_row_object_array(wb.Sheets[sheetName]);   
+
+            $("#my_file_output").html(sCSV);
+            console.log(oJS)
+        });
+    };
+
+    // Tell JS To Start Reading The File.. You could delay this if desired
+    reader.readAsBinaryString(oFile);
+}
+/*
+function filePicked(oEvent) {
+    // Get The File From The Input
+   // var worksheet = XLSX.utils.table_to_book(document.getElementById('name_of_file_input')); console.log(XLSX.utils.sheet_to_json(worksheet));
+    var oFile = oEvent.target.files[0];
+    var sFilename = oFile.name;
+    // Create A File Reader HTML5
+    var reader = new FileReader();
+
+    // Ready The Event For When A File Gets Selected
+    reader.onload = function(e) {
+        console.log("Read:"+e.target.result);
+        var data = new Uint8Array(e.target.result);
+        
+        var arr = new Array();
+        for(var i = 0; i != data.length; ++i) arr[i] = String.fromCharCode(data[i]);
+        var bstr = arr.join("");
+     
+        var workbook = XLSX.read(bstr, {type:"binary"});
+        console.log("workbook:"+workbook);
+
+        var first_sheet_name = workbook.SheetNames[0];
+        var worksheet = workbook.Sheets[first_sheet_name];
+        console.log(XLSX.utils.sheet_to_json(worksheet,{raw:true}));
+    };
+
+    // Tell JS To Start Reading The File.. You could delay this if desired
+    reader.readAsBinaryString(oFile);
+}
+*/
+    </script>
+</body>

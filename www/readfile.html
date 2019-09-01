@@ -1,0 +1,64 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+<script src="api.js">
+
+<script type="text/javascript">
+    var data;
+	$.ajax({
+	  type: "GET",  
+	  url: "esportazione_store.CSV",
+	  dataType: "text",       
+	  success: function(response)  
+	  {
+		data = $.csv.toArrays(response);
+		readData(data);
+	  }   
+	});
+
+    function readData(data) {
+     
+     //COMPANY_CODE;SITE_CODE;PRINTER_LABEL_ADDRESS;POSTAL_CODE;LIVE
+      var CompanyCode;
+      var SiteCode;
+      var Addresss;
+      var ZIPCode;
+      var Live;
+      var rec;
+
+    
+
+      if(typeof(data[0]) === 'undefined') {
+        return null;
+      } else {
+		$.each(data, function( index, row ) {
+		  //bind header
+		  if(index > 0) {
+              
+                rec=row[0].split(";");
+                CompanyCode=rec[0];
+                SiteCode=rec[1];
+                address=rec[2];
+                ZIPCode=rec[3];
+                Live=rec[4];
+
+            console.log("CompanyCode:"+CompanyCode+ " Address:"+ address+ " ZIP:" +ZIPCode);
+            
+            geocoder.geocode({'address': address+","+ZIPCode}, function(results, status) {
+            if (status === 'OK') {
+                resultsMap.setCenter(results[0].geometry.location);
+                var marker = new google.maps.Marker({
+                map: resultsMap,
+                position: results[0].geometry.location
+                });
+            } else {
+                alert('Geocode was not successful for the following reason: ' + status);
+            }
+		});
+	  }
+    });
+      }
+    }
+</script>
+<script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAMzMI_Bz-xsY4N2la9w7_Yv4kNGXZuiuM&callback=initMap">
+</script>

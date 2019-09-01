@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+ <script type="text/javascript" > </script>
+
+<h2>HTML Forms</h2>
+
+<form action="LoadDetail()">
+  Address:<br>
+  <input type="text" name="Address" value="Mickey">
+  <br>Store Code:<br>
+  <input type="text" name="StoreCode" value="Mouse">
+  <br>
+  <br>Company Code:<br>
+  <input type="text" name="Company" value="Mouse">
+  <br>
+  <br>
+  <input type="submit" value="Submit">
+</form> 
+<script>
+    function LoadDetail(){
+        var data = JSON.parse(txt);  //parse the JSON
+data.employees.push({        //add the employee
+    firstName:"Mike",
+    lastName:"Rut",
+    time:"10:00 am",
+    email:"rut@bah.com",
+    phone:"800-888-8888",
+    image:"images/mike.jpg"
+});
+txt = JSON.stringify(data);  //reserialize to JSON
+fs.writeFileSync('stores.json', txt); 
+    }
+    </script>
+</body>
+</html>
