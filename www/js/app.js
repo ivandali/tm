@@ -164,6 +164,7 @@ function initMap() {
         var dim, img, tit;
         
         if ( feature.getProperty('category') === 'Pharmacy'){
+           dim=16;  tit='STORE';
             if ( feature.getProperty('region') === 'No' ){
                 img=`img/green-dot.png`
             }
@@ -174,25 +175,46 @@ function initMap() {
             if ( feature.getProperty('region') === 'Wa' ){
                 img=`img/blue-dot.png`
             }
+            if ( feature.getProperty('region') === 'Sc' ){
+                img=`img/yellow-dot.png`
+                tit='PILOT';
+            }
 
-           dim=32;  tit='STORE'; 
+            
           // alert(img);
         }
 
         if ( feature.getProperty('category') === 'DSP'){
-            dim=32;  tit='STORE';
+            dim=16;  tit='STORE';
         
             if ( feature.getProperty('region') === 'DI'){
-                dim=64; img='img/red-dot.png';
+                dim=24; img='img/red-dot.png';
             }else{
                 img='img/blue-dot.png';
             }
 
             //Preston Address: Dodd Way, Walton Summit, Preston, PR5 8AE  
         }
-        
-        if ( feature.getProperty('category') === 'SERVICE CENTRE'){
-            dim=128; img='img/icon_Pharmacy.png'; tit='SERVICE CENTRE';   
+        if ( feature.getProperty('storecode') === '62'){
+            dim=32; img='img/red-dot.png'; tit='CHS PILOT';   
+            const infoWindow = new google.maps.InfoWindow();
+            const addr = feature.getProperty('address');
+            
+            infoWindow.setOptions({pixelOffset: new google.maps.Size(0, -30)});
+            position = feature.getGeometry().get();
+      content = sanitizeHTML`
+            <div style="margin-bottom:20px">
+            <h2>CHS PILOT</h2>
+            <p>${addr}</p>
+            <img style="float:left; width:100px; margin-top:0px" src="img/logo_Pharmacy.png">
+            </div>`;
+            //Preston Address: Dodd Way, Walton Summit, Preston, PR5 8AE  
+            infoWindow.setContent(content);
+            infoWindow.setPosition(position);
+            infoWindow.open(map);
+        }
+        if ( feature.getProperty('region') === 'Sc'){
+            dim=32; img='img/yellow-dot.png'; tit='SCOTLAND PILOT';   
             const infoWindow = new google.maps.InfoWindow();
             const addr = feature.getProperty('address');
             
@@ -200,7 +222,26 @@ function initMap() {
             position = feature.getGeometry().get();
             content = sanitizeHTML`
             <div style="margin-bottom:20px">
-            <h5>PRESTON - SERVICE CENTRE</h5>
+            <h2>SCOTLAND PILOT</h2>
+            <p>${addr}</p>
+            <img style="float:left; width:100px; margin-top:0px" src="img/logo_Pharmacy.png">
+            </div>`;
+            //Preston Address: Dodd Way, Walton Summit, Preston, PR5 8AE  
+            infoWindow.setContent(content);
+            infoWindow.setPosition(position);
+            infoWindow.open(map);
+        }
+        
+        if ( feature.getProperty('category') === 'SERVICE CENTRE'){
+            dim=32; img='img/icon_Pharmacy.png'; tit='SERVICE CENTRE';   
+            const infoWindow = new google.maps.InfoWindow();
+            const addr = feature.getProperty('address');
+            
+            infoWindow.setOptions({pixelOffset: new google.maps.Size(0, -30)});
+            position = feature.getGeometry().get();
+            content = sanitizeHTML`
+            <div style="margin-bottom:20px">
+            <h2>PRESTON - SERVICE CENTRE</h2>
             <img style="float:left; width:100px; margin-top:0px" src="img/logo_Pharmacy.png">
             </div>`;
             //Preston Address: Dodd Way, Walton Summit, Preston, PR5 8AE  
